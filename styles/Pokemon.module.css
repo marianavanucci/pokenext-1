@@ -122,3 +122,7 @@
     justify-content: center;
     flex-direction: column;
 }
+
+.data_height {
+    border-right: 1px solid #ccc;
+  }
